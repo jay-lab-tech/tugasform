@@ -1,6 +1,6 @@
 # Tugas Form
 # Kelas : XI RPL 1
-# Anggota Kelompok:
+Anggota Kelompok:
 Azhar Noermasyah (Perpustakaan)
 Galih Aziz Wahyudi (Bank Mini)
 Daffa Azfar Arrizki (Mimake)
