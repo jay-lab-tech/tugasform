@@ -1,3 +1,4 @@
+// catatn: kalo mau pake kode ini anda harus membuat folder kosong agar image cover bisa muncul saat diinput, disini saya menamai folder nya dengan nama "uploads"
 <form action="azhar_perpus.php" method="post" enctype="multipart/form-data">
     <label>Judul Buku:</label><br>
     <input type="text" name="judul" required><br><br>
@@ -61,3 +62,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "</table>";
 }
 ?>
+
